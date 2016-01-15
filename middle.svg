@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="bottom.svg">
+   sodipodi:docname="middle.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.86356721"
-     inkscape:cx="263.21688"
-     inkscape:cy="384.60279"
+     inkscape:cx="70.990962"
+     inkscape:cy="385.91622"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -61,13 +61,13 @@
        position="497.39764,165.59221"
        id="guide3848" />
     <sodipodi:guide
-       orientation="1,0"
-       position="101.18659,614.69969"
-       id="guide3868" />
-    <sodipodi:guide
        orientation="0,1"
        position="392.55775,25.732272"
        id="guide3874" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="134.40625,542.24378"
+       id="guide3092" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -77,7 +77,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -103,6 +103,42 @@
          sodipodi:role="line"
          id="tspan3802"
          x="27.858398"
-         y="23.651253">Bottom</tspan></text>
+         y="23.651253">Middle plate</tspan></text>
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:0.70866142;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3072"
+       width="66.439316"
+       height="69.577568"
+       x="67.966927"
+       y="510.11841" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:0.70866142;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3072-2"
+       width="66.439316"
+       height="69.577568"
+       x="404.4996"
+       y="510.11841" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="82.451233"
+       y="553.65521"
+       id="text3094"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3096"
+         x="82.451233"
+         y="553.65521">Power</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="420.94678"
+       y="555.38086"
+       id="text3098"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3100"
+         x="420.94678"
+         y="555.38086">Audio</tspan></text>
   </g>
 </svg>
