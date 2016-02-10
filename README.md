@@ -12,3 +12,5 @@ A case for a "jukebox", containing:
      * a Behringer UCA202 soundcard
 * in the top, angled at 45°:
      * the official Raspberry Pi touchscreen
+
+master.svg contains the laser-ready drawing, based on the rough sketches in the other SVG files.
