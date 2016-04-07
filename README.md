@@ -14,3 +14,6 @@ A case for a "jukebox", containing:
      * the official Raspberry Pi touchscreen
 
 master.svg contains the laser-ready drawing, based on the rough sketches in the other SVG files.
+
+## Picture
+![Lasered, sanded & assembled](photo01.jpg)
